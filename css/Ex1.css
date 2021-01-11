@@ -194,9 +194,10 @@ input, textarea {
     text-align: center;
 }
 
-video{
-  display: block;
-  margin: auto;
+iframe, audio {
+    display: block;
+    margin: 0 auto;
+    border: 3px solid #3fb6b2;
 }
 
 .copyright {
